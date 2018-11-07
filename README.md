@@ -1,2 +1,2 @@
-# SamsungSTVSDKJava
+# SamsungSTVSDKJava 
 Samsung SmartTV Java SDK 
